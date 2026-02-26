@@ -134,6 +134,7 @@ a.info-box{
 
 #info-box-full{
     background: rgba(255,255,255 .8);
+    background-color: white;
     width: 90%;
     display:block;
     margin:auto;
